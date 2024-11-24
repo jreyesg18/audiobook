@@ -1,0 +1,4 @@
+deep-translator
+gTTS
+PyPDF2
+streamlit
