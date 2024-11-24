@@ -40,7 +40,7 @@ def read_pdf(file):
 
 
 def main():
-    st.title("Traductor de PDF y Conversor de Voz")
+    st.title("Traductor de archivo de PDF y con relato de Voz")
 
     pdf_file = st.file_uploader("Sube el archivo PDF que deseas traducir", type="pdf")
 
